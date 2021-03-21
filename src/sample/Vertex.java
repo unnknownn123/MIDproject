@@ -8,7 +8,6 @@ public class Vertex {
     private boolean visited;
     private List<Vertex> nList;
 
-
     public Vertex(String name){
         this.name=name;
         this.nList= new ArrayList<>();
@@ -47,3 +46,4 @@ public class Vertex {
         return this.name;
     }
 }
+
