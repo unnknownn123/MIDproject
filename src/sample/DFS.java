@@ -18,11 +18,11 @@ public class DFS{
             }
         }
     }
-
+    
     private void dfsWithStack(Vertex rootVertex) {
         this.stack.add(rootVertex);
         rootVertex.setVisited(true);
-
+        
         while( !stack.isEmpty()){
             Vertex actualVertex = this.stack.pop();
             System.out.print(actualVertex+" ");
