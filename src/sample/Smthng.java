@@ -18,6 +18,7 @@ public class Smthng {
         v3.addN(v4);
         v4.addN(v5);
 
+        
         list.add(v1);
         list.add(v2);
         list.add(v3);
