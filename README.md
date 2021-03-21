@@ -1,2 +1,2 @@
 # MIDproject
-Advanced algorithms MID project
+Our project in master branch, because we have some issues.
